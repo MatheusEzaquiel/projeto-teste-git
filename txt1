@@ -2,6 +2,10 @@ Teste de git 1
 Teste de git 2
 Eu amo a Leticia
 Eu amo o Matheus
+<<<<<<< HEAD
 
 
 Ximi, ximiei, ximiei, ximiau...shualalalau
+=======
+Manda o PIX
+>>>>>>> bdd9fc7040ff03d02bea1a2671254612656cc504
